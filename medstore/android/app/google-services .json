@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066955323168",
+    "firebase_url": "https://medstore-ed4e3.firebaseio.com",
+    "project_id": "medstore-ed4e3",
+    "storage_bucket": "medstore-ed4e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066955323168:android:11a6ae6a092710ca690945",
+        "android_client_info": {
+          "package_name": "com.medstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066955323168-tmr90dfldveetsfj4b4b9fbemh4sun6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medstore",
+            "certificate_hash": "fc6c348244a2089a3bf94d157daab5af819ac923"
+          }
+        },
+        {
+          "client_id": "1066955323168-3i4k9e8nj3hunlqar8bo91mtnj94imhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgyjqlW48FPpK203Ehk6Cmv-ewI_HvfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066955323168-3i4k9e8nj3hunlqar8bo91mtnj94imhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
